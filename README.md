@@ -1,3 +1,5 @@
-# Modify this portfolio
+# Tracy Oakley's Software Development Portfolio
 
-Make it your own! 
+Please checkout some of my latest Projects and a little about myself!
+
+Thank you for visiting!
