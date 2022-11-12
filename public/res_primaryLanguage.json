@@ -81,37 +81,30 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "United States Navy",
+        "title": "US Naval Officer",
+        "years": "08.2017 - 08.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Project Management"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          
         ]
       },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+       {
+        "company": "Code Fellows",
+        "title": "Student Developer",
+        "years": "09.2022 - 02.2023",
         "mainTech": [
-          "Angular 7/8"
+          "React and Python"
         ],
         "technologies": [
-          "RxJS",
           "Django",
-          "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "HTML5",
+          "CSS3",
+          "GitHub"
+          
         ]
       }
     ]
