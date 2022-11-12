@@ -1,12 +1,17 @@
 {
     "basic_info": {
       "name": "Tracy Oakley",
-      "titles": [ "Software Developer" ],
+      "titles": [ "From Submarines to Software Developer" ],
       "social": [
         {
           "name": "github",
           "url": "https://github.com/TracyOakley",
           "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/tracy-oakley-733blue/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "100by100headShot.png"
@@ -22,11 +27,6 @@
           "name": "CSS 3",
           "class": "devicon-css3-plain",
           "level": "95"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
         },
         {
           "name": "JavaScript",
