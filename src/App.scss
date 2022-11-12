@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #6fb9cc;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -120,7 +120,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #cc826f;
 	overflow: hidden;
 }
 
@@ -231,7 +231,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #cc826f;
 }
 
 .experience-icon {
@@ -256,7 +256,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: #cc826f !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -389,7 +389,10 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background-image: url("../public/images/1400by422px.png");
+	background-repeat: no-repeat;
+	background-size:100%;
+	
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
