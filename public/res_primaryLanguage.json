@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Tracy Oakley. F I'm working with newest front-end frameworks like React. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Tracy Oakley. I have just completed a Software Developer Bootcamp from Code Fellows that focused on the MERN stack. And before that I was a US Naval Officer aboard the USS Nevada. I have transitioned my skills in project management and problem solving from the Navy to the software development domain. My interest in software began when I was in college, but when I was in the Navy, I got to create work packages. Work packages are like software projects as they require precise syntax, logic and complex coordination and these experiences with their many review and tests cycles, I found I really enjoyed. I have found even more enjoyment in building coding projects and bringing them to life. Hoping to find a role that deals with feature creation and products to improve user experience or gain exposure in refactoring legacy code bases.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -21,12 +21,12 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-reactjs-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
             "class": "devicon-csharp-plain",
@@ -65,16 +65,12 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-React-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
